@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Tatiana
 
-<!--
-**tati-hart09/tati-hart09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an intermediate and I code for fun ig.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Building:
+- Learning:
+- Goal:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Java
+- Frameworks:
+- Tools: [Git
+
+## Featured Projects
+- 
+
+## Connect With Me
+- Email: tshart@thewildcats.net
+- LinkedIn:
+- Portfolio:
+
+## Fun Fact
+- I'm lowkey a chill person and I am a third degree black belt.
